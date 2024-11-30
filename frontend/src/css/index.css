@@ -1,0 +1,24 @@
+:root {
+  --color-background: #18111c;
+}
+
+body {
+  margin: 0;
+  background-color: var(--color-background);
+  overflow: hidden;
+}
+
+#speed-scroll-container {
+  position: absolute;
+  display: flex;
+
+  width: 100vw;
+  height: 100vh;
+  justify-content: center;
+  align-items: flex-end;
+}
+
+#speed-scroll-container input {
+  margin-bottom: 5vh;
+  accent-color: rgb(88, 61, 123);
+}
