@@ -9,7 +9,9 @@ Funny animation for the sake of a joke and testing the capabilities of React. Us
 ## How to use it?
 
 1. Clone this repository to your pc using:  
-```git clone git@github.com:azya0/frontend-wave.git```
+```git clone https://github.com/azya0/frontend-wave.git```
+2. Go to the directory:  
+```cd ./frontend```
 2. Install all dependenses, using npm:  
 ```npm install```
 3. Run, using npm:  
