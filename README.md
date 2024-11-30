@@ -10,5 +10,7 @@ Funny animation for the sake of a joke and testing the capabilities of React. Us
 
 1. Clone this repository to your pc using:  
 ```git clone git@github.com:azya0/frontend-wave.git```
-2. Run, using npm:  
+2. Install all dependenses, using npm:  
+```npm install```
+3. Run, using npm:  
 ```npm start```
